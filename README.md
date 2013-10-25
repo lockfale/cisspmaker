@@ -1,16 +1,22 @@
-cisspmaker
-==========
+cisspmaker:
+===========
 
 sauce for cisspmaker
 
 
-usage
-==========
+usage:
+======
 
 use it
 
 
 disclaimer:
 ===========
+
 enjoy your c&d
 
+
+for png and fonts:
+====================
+
+lrn2google
